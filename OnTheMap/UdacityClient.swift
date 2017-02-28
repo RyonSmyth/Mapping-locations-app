@@ -31,8 +31,6 @@ class UdacityClient: NSObject {
             return
            }
             
-          
-  
             
             
             completionHandlerForPOST(true, nil)
